@@ -1,0 +1,11 @@
+{
+  "subdomain": "prod-searxng",
+  "description": "Private search engine",
+  "owner": {
+    "repo": "https://github.com/MaheshP701/free-domains",
+    "email": "adam.novice@gmail.com"
+  },
+  "record": {
+    "CNAME": "MaheshP701.github.io"
+  }
+}
